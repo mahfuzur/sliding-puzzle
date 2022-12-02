@@ -5,4 +5,4 @@ vanilla js
 
 ## LIVE DEMO
 
-https://n1nni.github.io/chorme-extension/
+n1nni.github.io/sliding-puzzle/
