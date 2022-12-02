@@ -5,4 +5,4 @@ vanilla js
 
 ## LIVE DEMO
 
-n1nni.github.io/sliding-puzzle/
+https://n1nni.github.io/sliding-puzzle/
